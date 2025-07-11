@@ -12,7 +12,7 @@ export default function App() {
     });
     btn?.addEventListener('click', () => {
       // Simulate download
-      window.open('https://example.com/avmania.apk', '_blank');
+      window.open('https://github.com/ghie29/AVMLanding/releases/download/v1.0.1/avmania.apk', '_blank');
     });
   }, []);
 
